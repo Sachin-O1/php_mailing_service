@@ -1,2 +1,2 @@
 # php_mailing_service
-mailing user query using php mailer
+Mailing user query using php mailer
